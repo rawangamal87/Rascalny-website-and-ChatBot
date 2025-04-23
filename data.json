@@ -1,0 +1,207 @@
+{
+  "intents":[
+    {
+      "tag": "أساسيات إعادة التدوير",
+      "patterns": [
+        "ما هي إعادة التدوير؟",
+        "كيف تعمل إعادة التدوير؟",
+        "اخبرني عن إعادة التدوير",
+        "لماذا يجب علينا إعادة التدوير؟"
+      ],
+      "responses": [
+        "إعادة التدوير هي عملية تحويل المواد التالفة إلى منتجات جديدة للحد من هدر المواد التي يمكن استخدامها.",
+        "إعادة التدوير تساعد في الحفاظ على الموارد الطبيعية، وتقليل التلوث، وتوفير الطاقة من خلال إعادة استخدام المواد الخام.",
+        "نقوم بإعادة التدوير للحد من التأثير البيئي للنفايات، والحفاظ على الموارد الطبيعية، وتقليل استهلاك الطاقة."
+      ]
+    },
+    {
+      "tag": "المواد القابلة لإعادة التدوير",
+      "patterns": [
+        "ما هي المواد التي يمكن إعادة تدويرها؟",
+        "ما هي المواد القابلة لإعادة التدوير؟",
+        "هل يمكنني إعادة تدوير البلاستيك؟",
+        "هل يمكنني إعادة تدوير الزجاج؟"
+      ],
+      "responses": [
+        "المواد القابلة لإعادة التدوير تشمل الورق، الكرتون، الزجاج، البلاستيك، والمعادن.",
+        "يمكنك إعادة تدوير معظم أنواع البلاستيك، والزجاجات الزجاجية، وعلب الألومنيوم، ومنتجات الورق.",
+        "ليس كل أنواع البلاستيك قابلة لإعادة التدوير. تحقق من برنامج إعادة التدوير المحلي لمعرفة الإرشادات."
+      ]
+    },
+    {
+      "tag": "عملية إعادة التدوير",
+      "patterns": [
+        "كيف يتم إعادة تدوير البلاستيك؟",
+        "ماذا يحدث للورق بعد إعادة التدوير؟",
+        "اخبرني عن عملية إعادة التدوير",
+        "كيف يتم إعادة تدوير الزجاج؟"
+      ],
+      "responses": [
+        "إعادة تدوير البلاستيك تتضمن تنظيفه، وذوبانه، وإعادة تشكيله إلى منتجات جديدة.",
+        "بعد إعادة تدوير الورق، يتم تكسير الورق إلى ألياف، ثم تنظيفه، وتحويله إلى منتجات ورقية جديدة.",
+        "يتم سحق الزجاج، وذوبانه، ثم صبه في قوالب لإنتاج منتجات زجاجية جديدة. يمكن إعادة تدوير الزجاج بلا حدود من حيث الجودة."
+      ]
+    },
+    {
+      "tag": "فوائد إعادة التدوير",
+      "patterns": [
+        "ما هي فوائد إعادة التدوير؟",
+        "لماذا تعتبر إعادة التدوير مهمة؟",
+        "كيف تساعد إعادة التدوير البيئة؟",
+        "ما هو تأثير إعادة التدوير؟"
+      ],
+      "responses": [
+        "إعادة التدوير تساعد في توفير الطاقة، وتقليل التلوث، والحفاظ على الموارد الطبيعية، مما يساهم في بيئة صحية.",
+        "من خلال إعادة التدوير، نقلل الحاجة إلى المواد الخام، ونقلل انبعاثات الغازات الدفيئة، ونوفر الطاقة.",
+        "إعادة التدوير تقلل من النفايات في المدافن وتساعد في مكافحة المشاكل البيئية مثل إزالة الغابات والتلوث."
+      ]
+    },
+    {
+      "tag": "إرشادات إعادة التدوير",
+      "patterns": [
+        "كيف أتمكن من إعادة التدوير بشكل صحيح؟",
+        "ما هي قواعد إعادة التدوير؟",
+        "هل هناك أي إرشادات لإعادة التدوير يجب أن أعرفها؟",
+        "كيف يجب أن أفرز المواد القابلة لإعادة التدوير؟"
+      ],
+      "responses": [
+        "يجب فرز المواد المختلفة في صناديق منفصلة. تأكد من أن المواد نظيفة وخالية من الملوثات قبل إعادة التدوير.",
+        "تحقق من برنامج إعادة التدوير المحلي للحصول على إرشادات محددة، حيث قد تختلف القواعد حسب الموقع.",
+        "تجنب وضع مواد مثل الأكياس البلاستيكية، وبقايا الطعام، أو البلاستيك غير القابل لإعادة التدوير في صناديق إعادة التدوير."
+      ]
+    },
+    {
+      "tag": "أماكن إعادة التدوير",
+      "patterns": [
+        "أين يمكنني إعادة التدوير بالقرب مني؟",
+        "أين يمكنني تسليم المواد القابلة لإعادة التدوير؟",
+        "هل هناك مركز لإعادة التدوير بالقرب مني؟",
+        "كيف يمكنني العثور على أماكن لإعادة التدوير؟"
+      ],
+      "responses": [
+        "يمكنك العثور على مراكز إعادة التدوير المحلية من خلال خرائط الإنترنت أو بزيارة الموقع الإلكتروني لمدينتك.",
+        "تحقق مع برنامج إدارة النفايات المحلي للحصول على معلومات حول مواقع إعادة التدوير القريبة منك."
+      ]
+    },
+    {
+      "tag": "العناصر غير القابلة لإعادة التدوير",
+      "patterns": [
+        "ما الذي لا يمكن إعادة تدويره؟",
+        "هل يمكن إعادة تدوير صناديق البيتزا؟",
+        "هل يمكنني إعادة تدوير الزجاج المكسور؟",
+        "ماذا عن الستيروفوم؟"
+      ],
+      "responses": [
+        "العناصر مثل الستيروفوم، الأكياس البلاستيكية، وصناديق البيتزا الملوثة بالدهون عادةً لا يمكن إعادة تدويرها.",
+        "يجب التخلص من الزجاج المكسور بطريقة آمنة، ولكنه قد لا يُقبل في صناديق إعادة التدوير العادية.",
+        "تحقق من البرنامج المحلي للحصول على مزيد من المعلومات حول العناصر التي لا يمكن إعادة تدويرها في منطقتك."
+      ]
+    },
+  
+       
+      {
+        "tag": "Recycling Basics",
+        "patterns":[
+          "What is recycling?",
+          "How does recycling work?",
+          "Tell me about recycling",
+          "Why should we recycle?"
+      ],
+        "responses": [
+          "Recycling is the process of converting waste materials into new products to prevent waste of potentially useful materials.",
+          "Recycling helps conserve natural resources, reduces pollution, and saves energy by reusing raw materials.",
+          "We recycle to reduce the environmental impact of waste, conserve natural resources, and reduce energy consumption."
+      ]
+    },
+    {
+      "tag": "Recycling Materials",
+      "patterns": [
+        "What can be recycled?",
+        "What materials are recyclable?",
+        "Can I recycle plastic?",
+        "Can I recycle glass?"
+      ],
+      "responses": [
+        "Commonly recycled materials include paper, cardboard, glass, plastic, and metals.",
+        "You can recycle most types of plastics, glass bottles, aluminum cans, and paper products.",
+        "Not all plastics are recyclable. Check with your local recycling program for guidelines."
+      ]
+    },
+    {
+      "tag": "Recycling Process",
+      "patterns": [
+        "How is plastic recycled?",
+        "What happens to paper after recycling?",
+        "Tell me about the recycling process",
+        "How do they recycle glass?"
+      ],
+      "responses": [
+        "Plastic recycling involves cleaning, melting, and reshaping plastics into new products.",
+        "After paper is recycled, it's broken down into fibers, cleaned, and turned into new paper products.",
+        "Glass is crushed, melted, and then molded into new glass products. It can be recycled indefinitely without losing quality."
+      ]
+    },
+    {
+      "tag": "Recycling Benefits",
+      "patterns": [
+        "What are the benefits of recycling?",
+        "Why is recycling important?",
+        "How does recycling help the environment?",
+        "What impact does recycling have?"
+      ],
+      "responses": [
+        "Recycling helps save energy, reduces pollution, and conserves natural resources, ultimately contributing to a healthier environment.",
+        "By recycling, we reduce the need for raw materials, lower greenhouse gas emissions, and save energy.",
+        "Recycling decreases landfill waste and helps combat environmental issues like deforestation and pollution."
+      ]
+    },
+    {
+      "tag": "Recycling Guidelines",
+      "patterns": [
+        "How do I recycle properly?",
+        "What are the recycling rules?",
+        "Are there any recycling guidelines I should know?",
+        "How should I sort my recyclables?"
+      ],
+      "responses": [
+        "Different materials should be sorted into separate bins. Make sure they are clean and free of contaminants before recycling.",
+        "Check with your local recycling program for specific guidelines, as they may vary by location.",
+        "Avoid placing items like plastic bags, food waste, or non-recyclable plastics in recycling bins."
+      ]
+    },
+    {
+      "tag": "Recycling Locations",
+      "patterns": [
+        "Where can I recycle near me?",
+        "Where do I drop off recyclables?",
+        "Is there a recycling center near me?",
+        "How can I find recycling locations?"
+      ],
+      "responses": [
+        "You can find local recycling centers through online maps or by visiting your city's official website.",
+        "Check with your local waste management program for information on nearby recycling drop-off locations."
+      ]
+    },
+    {
+      "tag": "Non-recyclable Items",
+      "patterns": [
+        "What can't be recycled?",
+        "Are pizza boxes recyclable?",
+        "Can I recycle broken glass?",
+        "What about Styrofoam?"
+      ],
+      "responses": [
+        "Items like Styrofoam, plastic bags, and greasy pizza boxes are generally not recyclable.",
+        "Broken glass should be disposed of in a safe way, but it may not be accepted in regular recycling bins.",
+        "Check with your local program for more specific information on items that are not recyclable in your area."
+      ]
+      
+      
+    }
+  ]
+}
+  
+
+
+
+  
